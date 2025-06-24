@@ -66,9 +66,9 @@ def heuristic(n):
         "E": 3,
         "F": 6,
         "G": 5,
-        "I": 3,
-        "J": 1,
-        "K": 0,
+        "H": 3,
+        "I": 1,
+        "J": 0,
     }
     return H_dist[n]
 
